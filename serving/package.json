@@ -42,7 +42,7 @@
     "marked": "^18.0.3",
     "onnxruntime-node": "^1.25.1",
     "web-features": "^3.36.0",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/gh-pages": "^6.1.0",
